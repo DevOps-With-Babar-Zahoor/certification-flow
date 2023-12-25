@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T17:11:50.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="WRbH189L3YKZ_5BPS-zA" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T17:14:27.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Mv-872fzOWA9DhLy38yX" version="22.1.11" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
     <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,19 +16,51 @@
         <mxCell id="W4eT2PgvmVDTKqHdBjYm-3" value="&lt;div&gt;Start&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190" y="70" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W4eT2PgvmVDTKqHdBjYm-8" value="Take a quiz" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="145" width="100" height="100" as="geometry" />
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4eT2PgvmVDTKqHdBjYm-8" target="W4eT2PgvmVDTKqHdBjYm-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="220" />
+              <mxPoint x="500" y="140" />
+              <mxPoint x="411" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-19" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W4eT2PgvmVDTKqHdBjYm-16">
+          <mxGeometry x="-0.8494" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4eT2PgvmVDTKqHdBjYm-8" target="W4eT2PgvmVDTKqHdBjYm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-20" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W4eT2PgvmVDTKqHdBjYm-17">
+          <mxGeometry x="-0.15" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-8" value="&lt;div&gt;Take a quiz&lt;/div&gt;&lt;div&gt;Score &amp;gt; 60%&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="W4eT2PgvmVDTKqHdBjYm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4eT2PgvmVDTKqHdBjYm-4" target="W4eT2PgvmVDTKqHdBjYm-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W4eT2PgvmVDTKqHdBjYm-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="180" y="160" width="120" height="70" as="geometry" />
+          <mxGeometry x="180" y="185" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="W4eT2PgvmVDTKqHdBjYm-4" value="Complete all YouTube playlist learning" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.21428571428571427;arcSize=6;" vertex="1" parent="W4eT2PgvmVDTKqHdBjYm-11">
           <mxGeometry width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="W4eT2PgvmVDTKqHdBjYm-7" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.youtube_2;fillColor=#FF2626;gradientColor=#B5171F" vertex="1" parent="W4eT2PgvmVDTKqHdBjYm-11">
+          <mxGeometry x="36.80000000000001" y="18.69999999999999" width="46.400000000000006" height="32.6" as="geometry" />
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-14" value="Complete all YouTube playlist learning" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.21428571428571427;arcSize=6;" vertex="1" parent="W4eT2PgvmVDTKqHdBjYm-13">
+          <mxGeometry width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-15" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.youtube_2;fillColor=#FF2626;gradientColor=#B5171F" vertex="1" parent="W4eT2PgvmVDTKqHdBjYm-13">
           <mxGeometry x="36.80000000000001" y="18.69999999999999" width="46.400000000000006" height="32.6" as="geometry" />
         </mxCell>
       </root>
