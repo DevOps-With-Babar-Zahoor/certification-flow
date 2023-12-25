@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T17:14:27.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Mv-872fzOWA9DhLy38yX" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T17:14:58.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Mb-Y8-sakRBPL_U0kJa8" version="22.1.11" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
     <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,9 +59,6 @@
         </mxCell>
         <mxCell id="W4eT2PgvmVDTKqHdBjYm-14" value="Complete all YouTube playlist learning" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.21428571428571427;arcSize=6;" vertex="1" parent="W4eT2PgvmVDTKqHdBjYm-13">
           <mxGeometry width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="W4eT2PgvmVDTKqHdBjYm-15" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.youtube_2;fillColor=#FF2626;gradientColor=#B5171F" vertex="1" parent="W4eT2PgvmVDTKqHdBjYm-13">
-          <mxGeometry x="36.80000000000001" y="18.69999999999999" width="46.400000000000006" height="32.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
