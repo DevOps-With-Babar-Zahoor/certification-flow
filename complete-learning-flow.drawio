@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T17:27:03.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Eew8zQwT53LA2N6Tjmh2" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T17:30:37.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="HMT6egkQ55sWb-qwVepU" version="22.1.11" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
     <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -67,6 +67,21 @@
           <mxGeometry x="-0.5778" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-28" value="Pass the recruitment process?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4eT2PgvmVDTKqHdBjYm-14" target="W4eT2PgvmVDTKqHdBjYm-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-30" value="" style="group;snapToPoint=0;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="540" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-31" value="Participate in tasks from GitHub" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.21428571428571427;arcSize=6;snapToPoint=0;" vertex="1" parent="W4eT2PgvmVDTKqHdBjYm-30">
+          <mxGeometry width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-33" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;rounded=1;" vertex="1" parent="W4eT2PgvmVDTKqHdBjYm-30">
+          <mxGeometry x="36.80000000000001" y="10" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
