@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T23:31:20.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="xdYtH5hQpHibxsctFnWq" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T23:33:26.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="bmq6R9ZMSHR_I2o5Rd06" version="22.1.17" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
     <mxGraphModel dx="2284" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -200,6 +200,18 @@
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-18" value="Requirements:&lt;br&gt;&lt;ol&gt;&lt;li&gt;GitHub Account&lt;/li&gt;&lt;li&gt;YouTube Channel&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=8;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
           <mxGeometry y="50" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-23" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-810" y="380" width="350" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-24" value="Participate in tasks from GitHub" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-23">
+          <mxGeometry width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-25" value="&lt;ol&gt;&lt;li&gt;Fork the Repository in your own account.&lt;/li&gt;&lt;li&gt;Repo. will contain folders of tasks, each folder with README.MD written with instructions of the task.&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-23">
+          <mxGeometry y="80" width="350" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" edge="1" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-18" target="1tRoSdfYGU_0hkGhyjqQ-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
