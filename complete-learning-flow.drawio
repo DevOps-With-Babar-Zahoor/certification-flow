@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T00:42:13.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="XjWrLrZ1RQ6Lm4_4maAT" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T00:52:53.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="EHEQND9JYyUaqxxiSFa4" version="22.1.17" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
     <mxGraphModel dx="3387" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-22" value="Unable to Solve" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="1tRoSdfYGU_0hkGhyjqQ-20">
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-22" value="Unable to Solve" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;rounded=1;" vertex="1" connectable="0" parent="1tRoSdfYGU_0hkGhyjqQ-20">
           <mxGeometry x="-0.3707" y="1" relative="1" as="geometry">
             <mxPoint x="21" y="15" as="offset" />
           </mxGeometry>
@@ -212,13 +212,13 @@
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-33" value="&lt;ol&gt;&lt;li&gt;Google the Error Log.&lt;/li&gt;&lt;li&gt;Checkout askubuntu.com or relevant documentation.&lt;/li&gt;&lt;li&gt;Find Documentation.&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=8;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-31">
           <mxGeometry y="50" width="350" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-16" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-16" value="" style="group;rounded=1;arcSize=3;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1120" y="560" width="640" height="850" as="geometry" />
         </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-17" value="Community Support Required" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
-          <mxGeometry width="559.9953846534232" height="42.10526315789474" as="geometry" />
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-17" value="Community Support Required" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=5;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
+          <mxGeometry width="640" height="42.11" as="geometry" />
         </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-18" value="Requirements:&lt;br&gt;&lt;ol&gt;&lt;li&gt;GitHub Account&lt;/li&gt;&lt;li&gt;YouTube Channel&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Apply for Support:&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;b&gt;Screen record the issue&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;1 minutes&lt;/b&gt; duration maximum.&lt;/li&gt;&lt;li&gt;Mobile camera recording will not be accepted. (exception for Hardware issue)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Use mic to explain issue facing.&lt;/li&gt;&lt;li&gt;Be precise.&lt;/li&gt;&lt;li&gt;Don&#39;t repeat task (it is wasting 1 minutes limit and precious time of volunteer).&lt;/li&gt;&lt;li&gt;Explain issue within 1 minute.&lt;/li&gt;&lt;li&gt;Research results (explain in 10 seconds).&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Open GitHub.com Issue&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Go to &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=8;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-18" value="Requirements:&lt;br&gt;&lt;ol&gt;&lt;li&gt;GitHub Account&lt;/li&gt;&lt;li&gt;YouTube Channel&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Apply for Support:&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;b&gt;Screen record the issue&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;1 minutes&lt;/b&gt; duration maximum.&lt;/li&gt;&lt;li&gt;Mobile camera recording will not be accepted. (exception for Hardware issue)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Use mic to explain issue facing.&lt;/li&gt;&lt;li&gt;Be precise.&lt;/li&gt;&lt;li&gt;Don&#39;t repeat task (it is wasting 1 minutes limit and precious time of volunteer).&lt;/li&gt;&lt;li&gt;Explain issue within 1 minute.&lt;/li&gt;&lt;li&gt;Research results (explain in 10 seconds).&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Open GitHub.com Issue&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Go to original repository.&lt;br&gt;www.github.com/devopswithbabarzahoor/linux&lt;/li&gt;&lt;li&gt;Go to folder &amp;gt; Support Required&lt;/li&gt;&lt;li&gt;Copy the content of TEMPLATE.MD&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
           <mxGeometry y="52.63" width="640" height="797.37" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/apps/restart.png;rounded=1;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
@@ -245,7 +245,7 @@
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-35" target="1tRoSdfYGU_0hkGhyjqQ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-40" value="Unable to Solve" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="1tRoSdfYGU_0hkGhyjqQ-39">
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-40" value="Unable to Solve" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;rounded=1;" vertex="1" connectable="0" parent="1tRoSdfYGU_0hkGhyjqQ-39">
           <mxGeometry x="0.2153" relative="1" as="geometry">
             <mxPoint x="-24" y="-25" as="offset" />
           </mxGeometry>
@@ -259,12 +259,12 @@
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-35" target="1tRoSdfYGU_0hkGhyjqQ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-38" value="Solved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="1tRoSdfYGU_0hkGhyjqQ-37">
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-38" value="Solved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;rounded=1;" vertex="1" connectable="0" parent="1tRoSdfYGU_0hkGhyjqQ-37">
           <mxGeometry x="0.4101" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-48" value="&lt;h1&gt;Mandaotry&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-48" value="&lt;h1&gt;Mandaotry&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-540" y="880" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-41">
@@ -287,7 +287,7 @@
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-47" target="1tRoSdfYGU_0hkGhyjqQ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-55" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-55" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1000" y="1600" width="350" height="320" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-24" value="Request for Help by writing in GitHub Issue" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-55">
