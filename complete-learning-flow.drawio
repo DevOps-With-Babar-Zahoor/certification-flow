@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T10:28:47.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="fFhruJGluy12pihhiAvZ" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T10:29:33.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="iB3fmb7s8H34AlWHgwRq" version="22.1.17" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="2724" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4307" dy="2507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,9 +251,6 @@
         <mxCell id="FheNU742tuspytX7D5lb-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/apps/restart.png;rounded=1;rotation=-90;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
           <mxGeometry x="600" y="651.99" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-18" target="1tRoSdfYGU_0hkGhyjqQ-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-35" target="1tRoSdfYGU_0hkGhyjqQ-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -298,15 +295,6 @@
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-47" target="1tRoSdfYGU_0hkGhyjqQ-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-55" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-930" y="1750" width="350" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-24" value="Request for Help by writing in GitHub Issue" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;" parent="1tRoSdfYGU_0hkGhyjqQ-55" vertex="1">
-          <mxGeometry width="350" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-25" value="&lt;ol&gt;&lt;li&gt;Log in to GitHub.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;" parent="1tRoSdfYGU_0hkGhyjqQ-55" vertex="1">
-          <mxGeometry y="80" width="350" height="240" as="geometry" />
         </mxCell>
         <mxCell id="FheNU742tuspytX7D5lb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;curved=0;" edge="1" parent="1" source="FheNU742tuspytX7D5lb-2" target="1tRoSdfYGU_0hkGhyjqQ-48">
           <mxGeometry relative="1" as="geometry">
