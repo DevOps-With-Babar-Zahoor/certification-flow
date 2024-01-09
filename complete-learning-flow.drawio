@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T00:16:04.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="ior2paj8J59iDg5MqO39" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T00:22:55.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="PPa5468bEBLEk_GIg5nm" version="22.1.17" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="4887" dy="2922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2359" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,19 +213,19 @@
           <mxGeometry y="50" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-16" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-830" y="570" width="350" height="390" as="geometry" />
+          <mxGeometry x="-830" y="570" width="350" height="650" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-17" value="Community Support Required" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
-          <mxGeometry width="350" height="40" as="geometry" />
+          <mxGeometry width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-18" value="Requirements:&lt;br&gt;&lt;ol&gt;&lt;li&gt;GitHub Account&lt;/li&gt;&lt;li&gt;YouTube Channel&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=8;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
-          <mxGeometry y="50" width="350" height="140" as="geometry" />
+        <mxCell id="1tRoSdfYGU_0hkGhyjqQ-18" value="Requirements:&lt;br&gt;&lt;ol&gt;&lt;li&gt;GitHub Account&lt;/li&gt;&lt;li&gt;YouTube Channel&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Apply for Support:&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Screen record the issue&lt;/li&gt;&lt;li&gt;&lt;b&gt;1 minutes&lt;/b&gt; duration.&lt;/li&gt;&lt;li&gt;Mobile camera recording will not be accepted. (exception for Hardware issue)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Use mic to explain issue facing.&lt;/li&gt;&lt;li&gt;Be precise.&lt;/li&gt;&lt;li&gt;No need to repeat task.&lt;/li&gt;&lt;li&gt;Explain issue.&lt;/li&gt;&lt;li&gt;Research Results. &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=8;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
+          <mxGeometry y="62.5" width="350" height="577.5" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-24" value="Request for Help by writing in GitHub Issue" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="960" width="350" height="70" as="geometry" />
+          <mxGeometry x="-830" y="1340" width="350" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-25" value="&lt;ol&gt;&lt;li&gt;Log in to GitHub.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="1040" width="350" height="240" as="geometry" />
+          <mxGeometry x="-830" y="1420" width="350" height="240" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" edge="1" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-18" target="1tRoSdfYGU_0hkGhyjqQ-24">
           <mxGeometry relative="1" as="geometry" />
