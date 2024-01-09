@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T10:26:01.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="BGRDe0a91MY-UTd1ybIT" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T10:28:47.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="fFhruJGluy12pihhiAvZ" version="22.1.17" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="4090" dy="2390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2724" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,6 +245,12 @@
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/apps/restart.png;rounded=1;" parent="1tRoSdfYGU_0hkGhyjqQ-16" vertex="1">
           <mxGeometry x="526.6156597610459" y="534.7368421052631" width="31.999736265909902" height="31.999736265909902" as="geometry" />
         </mxCell>
+        <mxCell id="FheNU742tuspytX7D5lb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;arcSize=8;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
+          <mxGeometry x="30" y="690" width="630" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FheNU742tuspytX7D5lb-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/apps/restart.png;rounded=1;rotation=-90;" vertex="1" parent="1tRoSdfYGU_0hkGhyjqQ-16">
+          <mxGeometry x="600" y="651.99" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-18" target="1tRoSdfYGU_0hkGhyjqQ-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -301,6 +307,14 @@
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-25" value="&lt;ol&gt;&lt;li&gt;Log in to GitHub.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;" parent="1tRoSdfYGU_0hkGhyjqQ-55" vertex="1">
           <mxGeometry y="80" width="350" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="FheNU742tuspytX7D5lb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;curved=0;" edge="1" parent="1" source="FheNU742tuspytX7D5lb-2" target="1tRoSdfYGU_0hkGhyjqQ-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-505" y="1140" />
+              <mxPoint x="-280" y="1140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
