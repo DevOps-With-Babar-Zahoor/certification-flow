@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T10:29:33.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="iB3fmb7s8H34AlWHgwRq" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T10:38:59.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="w_c3eveIXp141MfLT3Fa" version="22.1.17" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
     <mxGraphModel dx="4307" dy="2507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -219,13 +219,13 @@
           <mxGeometry y="50" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-16" value="" style="group;rounded=1;arcSize=3;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-1120" y="560" width="680" height="1100" as="geometry" />
+          <mxGeometry x="-1120" y="560" width="680" height="1110" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-17" value="Community Support Required" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=50;" parent="1tRoSdfYGU_0hkGhyjqQ-16" vertex="1">
           <mxGeometry width="680" height="42.11" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-18" value="Requirements:&lt;br&gt;&lt;ol&gt;&lt;li&gt;GitHub Account&lt;/li&gt;&lt;li&gt;YouTube Channel&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Apply for Support:&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;b&gt;Screen record the issue&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;1 minutes&lt;/b&gt; duration maximum.&lt;/li&gt;&lt;li&gt;Mobile camera recording will not be accepted. (exception for Hardware issue)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Use mic to explain issue facing.&lt;/li&gt;&lt;li&gt;Be precise.&lt;/li&gt;&lt;li&gt;Don&#39;t repeat task (it is wasting 1 minutes limit and precious time of volunteer).&lt;/li&gt;&lt;li&gt;Explain issue within 1 minute.&lt;/li&gt;&lt;li&gt;Research results (explain in 10 seconds).&lt;/li&gt;&lt;li&gt;Upload this issue video on your own YouTube channel with hash-tags #osfp #devops #babarzahoor #support #opensource #pakistan&lt;/li&gt;&lt;li&gt;Get the URL of your video.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Open GitHub.com Issue&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Go to original repository.&lt;br&gt;https://github.com/DevOps-With-Babar-Zahoor/linux&lt;br&gt;&lt;/li&gt;&lt;li&gt;Go to folder &amp;gt; Support Required&lt;/li&gt;&lt;li&gt;Copy the content of file &quot;template.md&quot;&lt;/li&gt;&lt;li&gt;Create a new issue, using the template above from point 3.&lt;/li&gt;&lt;li&gt;As this is Linux related support required&lt;/li&gt;&lt;li&gt;Go to issues on https://github.com/DevOps-With-Babar-Zahoor/Linux/issues&lt;/li&gt;&lt;li&gt;Click New Issue&lt;/li&gt;&lt;li&gt;Paste the template with your data filled.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" parent="1tRoSdfYGU_0hkGhyjqQ-16" vertex="1">
-          <mxGeometry y="52.63" width="680" height="1047.37" as="geometry" />
+          <mxGeometry y="52.63" width="680" height="1057.37" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/apps/restart.png;rounded=1;" parent="1tRoSdfYGU_0hkGhyjqQ-16" vertex="1">
           <mxGeometry x="323.069645030398" y="252.63157894736844" width="31.999736265909902" height="31.999736265909902" as="geometry" />
@@ -303,6 +303,24 @@
               <mxPoint x="-280" y="1140" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FheNU742tuspytX7D5lb-8" value="&lt;div&gt;GitHub&lt;/div&gt;&lt;div&gt;Issue&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-310.79499999999996" y="1670.0012389380531" width="170.79545454545456" height="170.79646017699116" as="geometry" />
+        </mxCell>
+        <mxCell id="FheNU742tuspytX7D5lb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="FheNU742tuspytX7D5lb-12" target="FheNU742tuspytX7D5lb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FheNU742tuspytX7D5lb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-18" target="FheNU742tuspytX7D5lb-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-780" y="1670" as="sourcePoint" />
+            <mxPoint x="-910" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FheNU742tuspytX7D5lb-12" value="Volunteer Support will be provided and solution will be suggested on GitHub" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.21428571428571427;arcSize=6;snapToPoint=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="1810" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FheNU742tuspytX7D5lb-14" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-822.6940909090908" y="1837.2976991150442" width="85.39772727272728" height="85.39823008849558" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
