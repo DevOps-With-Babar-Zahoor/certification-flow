@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T07:49:21.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="9pgwwiu0baQQ-HRrzStF" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T16:58:20.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="3Uz1C4RPa_ryaiESjIRE" version="22.1.17" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="2537" dy="2428" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2715" dy="1597" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,14 +111,6 @@
         </mxCell>
         <mxCell id="W4eT2PgvmVDTKqHdBjYm-43" value="Tasks Validation" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.21428571428571427;arcSize=6;snapToPoint=0;fontSize=24;" parent="q-gQBUgoeCnUOb_JMu_p-7" vertex="1">
           <mxGeometry x="256.1931818181818" y="1315.132743362832" width="204.95454545454547" height="119.5575221238938" as="geometry" />
-        </mxCell>
-        <mxCell id="W4eT2PgvmVDTKqHdBjYm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;strokeWidth=6;" parent="q-gQBUgoeCnUOb_JMu_p-7" source="W4eT2PgvmVDTKqHdBjYm-31" target="W4eT2PgvmVDTKqHdBjYm-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="1119" />
-              <mxPoint x="520" y="1375" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="W4eT2PgvmVDTKqHdBjYm-45" value="3 months tasks with validation" style="strokeWidth=2;shape=mxgraph.flowchart.decision;rounded=1;whiteSpace=wrap;html=1;spacingTop=0;spacing=13;fontSize=24;" parent="q-gQBUgoeCnUOb_JMu_p-7" vertex="1">
           <mxGeometry y="1503.0088495575221" width="170.79545454545456" height="170.79646017699116" as="geometry" />
@@ -342,7 +334,7 @@
         <mxCell id="FheNU742tuspytX7D5lb-14" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;rounded=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-822.6940909090908" y="1837.2976991150442" width="85.39772727272728" height="85.39823008849558" as="geometry" />
         </mxCell>
-        <mxCell id="BlYv3RvXIJ1uFkgI9MEk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="FheNU742tuspytX7D5lb-8" target="1tRoSdfYGU_0hkGhyjqQ-14">
+        <mxCell id="BlYv3RvXIJ1uFkgI9MEk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" parent="1" source="FheNU742tuspytX7D5lb-8" target="1tRoSdfYGU_0hkGhyjqQ-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-115.19954545454516" y="1874.9994690265485" as="sourcePoint" />
             <mxPoint x="-225.39727272727282" y="315.79769911504445" as="targetPoint" />
@@ -353,8 +345,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BlYv3RvXIJ1uFkgI9MEk-2" value="Solved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;rounded=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="BlYv3RvXIJ1uFkgI9MEk-2" value="Solved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;rounded=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-40.00185138489118" y="1859.9972207494718" as="geometry" />
+        </mxCell>
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=24;strokeWidth=6;exitPerimeter=0;" parent="1" source="1tRoSdfYGU_0hkGhyjqQ-14" target="W4eT2PgvmVDTKqHdBjYm-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-26" y="235" />
+              <mxPoint x="-26" y="379" />
+              <mxPoint x="286" y="379" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaW9rd2e0IrrdHlJy2nI-1" value="Solved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-96.00092103767435" y="207.9972458472475" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
