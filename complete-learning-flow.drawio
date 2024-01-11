@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T05:37:03.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="xRgr6qsm84cANQUzm6I5" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T05:46:55.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="vOWjk50luNu06GwS1lk2" version="22.1.17" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
     <mxGraphModel dx="3209" dy="1915" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -377,6 +377,15 @@
         </mxCell>
         <mxCell id="asjINUInbQKGZqjc48UW-14" value="&lt;ol&gt;&lt;li&gt;Water Mark Text should your YouTube Channel ID (not the name):&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Canva Link to make water-mark.&lt;/li&gt;&lt;li&gt;Sample water-mark can design&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Upload video to Canva&lt;/li&gt;&lt;li&gt;Add the water mark&lt;/li&gt;&lt;li&gt;Download video with water-mark&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="asjINUInbQKGZqjc48UW-17">
           <mxGeometry y="43.440000000000055" width="478" height="260.56" as="geometry" />
+        </mxCell>
+        <mxCell id="asjINUInbQKGZqjc48UW-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="763" y="1485" width="478" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="asjINUInbQKGZqjc48UW-19" value="Make Your Own GitHub Repository" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" vertex="1" parent="asjINUInbQKGZqjc48UW-18">
+          <mxGeometry width="478" height="39.36" as="geometry" />
+        </mxCell>
+        <mxCell id="asjINUInbQKGZqjc48UW-20" value="&lt;ol&gt;&lt;li&gt;There is one Linux forked repository in your ID.&lt;/li&gt;&lt;li&gt;Create a new repository &quot;Linux-&amp;lt;your OSFP membership number&quot; in your account.&lt;/li&gt;&lt;li&gt;Create same task number folder in the repo.&lt;/li&gt;&lt;li&gt;Add readme.md file, copy the content of themplate file ().&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="asjINUInbQKGZqjc48UW-18">
+          <mxGeometry y="43.44" width="478" height="322.56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
