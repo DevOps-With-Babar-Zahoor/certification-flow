@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T05:49:46.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="NPDx6LoxADSFzAYu3rF1" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T23:50:01.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="_yOnFvJ76EpofrZSqmzD" version="22.1.18" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="3209" dy="1915" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3095" dy="1783" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,32 +360,32 @@
         <mxCell id="kaW9rd2e0IrrdHlJy2nI-1" value="Solved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;rounded=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-96.00092103767435" y="207.9972458472475" as="geometry" />
         </mxCell>
-        <mxCell id="asjINUInbQKGZqjc48UW-16" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="asjINUInbQKGZqjc48UW-16" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="800" y="447" width="680" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="asjINUInbQKGZqjc48UW-2" value="Task Submission" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=49;" vertex="1" parent="asjINUInbQKGZqjc48UW-16">
+        <mxCell id="asjINUInbQKGZqjc48UW-2" value="Task Submission" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=49;" parent="asjINUInbQKGZqjc48UW-16" vertex="1">
           <mxGeometry width="680" height="42.11" as="geometry" />
         </mxCell>
-        <mxCell id="asjINUInbQKGZqjc48UW-3" value="Requirements:&lt;br&gt;&lt;ol&gt;&lt;li&gt;GitHub Account&lt;/li&gt;&lt;li&gt;YouTube Channel&lt;/li&gt;&lt;li&gt;LinkedIn Account&lt;/li&gt;&lt;li&gt;Canva Account (Free tier)&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Apply for Support:&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;b&gt;Screen Record the success&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;(Thirty) 30 seconds, only&lt;/b&gt;, duration maximum.&lt;/li&gt;&lt;li&gt;Mobile camera recording will not be accepted. (exception for Hardware tasks)&lt;/li&gt;&lt;li&gt;Use Mic to speak about screen and record in video.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Be precise:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Ten (10) seconds to show task&lt;/li&gt;&lt;li&gt;Next ten (10) seconds on approach used to solve the tasks.&lt;/li&gt;&lt;li&gt;And last ten (10) seconds to present solution.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="asjINUInbQKGZqjc48UW-16">
+        <mxCell id="asjINUInbQKGZqjc48UW-3" value="Requirements:&lt;br&gt;&lt;ol&gt;&lt;li&gt;GitHub Account&lt;/li&gt;&lt;li&gt;YouTube Channel&lt;/li&gt;&lt;li&gt;LinkedIn Account&lt;/li&gt;&lt;li&gt;Canva Account (Free tier)&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Apply for Support:&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;b&gt;Screen Record the success&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;(Thirty) 30 seconds, only&lt;/b&gt;, duration maximum.&lt;/li&gt;&lt;li&gt;Mobile camera recording will not be accepted. (exception for Hardware tasks)&lt;/li&gt;&lt;li&gt;Use Mic to speak about screen and record in video.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Be precise:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Ten (10) seconds to show task&lt;/li&gt;&lt;li&gt;Next ten (10) seconds on approach used to solve the tasks.&lt;/li&gt;&lt;li&gt;And last ten (10) seconds to present solution.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" parent="asjINUInbQKGZqjc48UW-16" vertex="1">
           <mxGeometry y="52.629999999999995" width="680" height="597.37" as="geometry" />
         </mxCell>
-        <mxCell id="asjINUInbQKGZqjc48UW-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1176" y="1169" width="478" height="304" as="geometry" />
+        <mxCell id="asjINUInbQKGZqjc48UW-17" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1176" y="1169" width="478" height="452" as="geometry" />
         </mxCell>
-        <mxCell id="asjINUInbQKGZqjc48UW-13" value="Add Water-Mark" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" vertex="1" parent="asjINUInbQKGZqjc48UW-17">
+        <mxCell id="asjINUInbQKGZqjc48UW-13" value="Add Water-Mark" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" parent="asjINUInbQKGZqjc48UW-17" vertex="1">
           <mxGeometry width="478" height="39.36" as="geometry" />
         </mxCell>
-        <mxCell id="asjINUInbQKGZqjc48UW-14" value="&lt;ol&gt;&lt;li&gt;Water Mark Text should your YouTube Channel ID (not the name):&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Canva Link to make water-mark.&lt;/li&gt;&lt;li&gt;Sample water-mark can design&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Upload video to Canva&lt;/li&gt;&lt;li&gt;Add the water mark&lt;/li&gt;&lt;li&gt;Download video with water-mark&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="asjINUInbQKGZqjc48UW-17">
-          <mxGeometry y="43.440000000000055" width="478" height="260.56" as="geometry" />
+        <mxCell id="asjINUInbQKGZqjc48UW-14" value="&lt;ol&gt;&lt;li&gt;Water Mark Text should your YouTube Channel ID (not the name):&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Canva Link to make water-mark. (template is here: &lt;br&gt;https://bit.ly/3UgD3vt&lt;br&gt;&lt;/li&gt;&lt;li&gt;Sample water-mark can be used to make your video&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Upload video to Canva&lt;/li&gt;&lt;li&gt;Set Video to background&lt;/li&gt;&lt;li&gt;Edit the watermark from template as mentioned above.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Download video with water-mark&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" parent="asjINUInbQKGZqjc48UW-17" vertex="1">
+          <mxGeometry y="43.44" width="478" height="408.56" as="geometry" />
         </mxCell>
-        <mxCell id="asjINUInbQKGZqjc48UW-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="719" y="1536" width="478" height="366" as="geometry" />
+        <mxCell id="asjINUInbQKGZqjc48UW-18" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="614" y="1171" width="478" height="368" as="geometry" />
         </mxCell>
-        <mxCell id="asjINUInbQKGZqjc48UW-19" value="Make Your Own GitHub Repository" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" vertex="1" parent="asjINUInbQKGZqjc48UW-18">
-          <mxGeometry width="478" height="39.36" as="geometry" />
+        <mxCell id="asjINUInbQKGZqjc48UW-19" value="Make Your Own GitHub Repository" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" parent="asjINUInbQKGZqjc48UW-18" vertex="1">
+          <mxGeometry width="478" height="39.57508196721312" as="geometry" />
         </mxCell>
-        <mxCell id="asjINUInbQKGZqjc48UW-20" value="&lt;ol&gt;&lt;li&gt;There is one Linux forked repository in your ID.&lt;/li&gt;&lt;li&gt;Create a new repository &quot;Linux-&lt;span style=&quot;background-color: rgb(51, 51, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;your OSFP membership number&amp;gt;&lt;/font&gt;&lt;/span&gt;&quot; in your account.&lt;/li&gt;&lt;li&gt;Create same task number folder in the repo.&lt;/li&gt;&lt;li&gt;Add readme.md file, copy the content of themplate file () and fill it.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="asjINUInbQKGZqjc48UW-18">
-          <mxGeometry y="43.44" width="478" height="322.56" as="geometry" />
+        <mxCell id="asjINUInbQKGZqjc48UW-20" value="&lt;ol&gt;&lt;li&gt;There is one Linux forked repository in your ID.&lt;/li&gt;&lt;li&gt;Create a new repository &quot;Linux-&lt;span style=&quot;background-color: rgb(51, 51, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;your OSFP membership number&amp;gt;&lt;/font&gt;&lt;/span&gt;&quot; in your account.&lt;/li&gt;&lt;li&gt;Create same task number folder in the repository.&lt;/li&gt;&lt;li&gt;Add readme.md file, copy the content of themplate file () and fill it.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" parent="asjINUInbQKGZqjc48UW-18" vertex="1">
+          <mxGeometry y="43.67737704918032" width="478" height="324.3226229508196" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
