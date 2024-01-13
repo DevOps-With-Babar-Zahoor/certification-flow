@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T00:14:50.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="7qwqTDYYiAB10sUEMFhy" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T00:23:18.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="C6DjCfVGaJSElKwJPY0w" version="22.1.18" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="4568" dy="2740" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4090" dy="2467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,7 +361,7 @@
           <mxGeometry x="-96.00092103767435" y="207.9972458472475" as="geometry" />
         </mxCell>
         <mxCell id="asjINUInbQKGZqjc48UW-16" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="800" y="447" width="680" height="650" as="geometry" />
+          <mxGeometry x="1647" y="-449" width="680" height="650" as="geometry" />
         </mxCell>
         <mxCell id="asjINUInbQKGZqjc48UW-2" value="Task Submission" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=49;" parent="asjINUInbQKGZqjc48UW-16" vertex="1">
           <mxGeometry width="680" height="42.11" as="geometry" />
@@ -370,7 +370,7 @@
           <mxGeometry y="52.629999999999995" width="680" height="597.37" as="geometry" />
         </mxCell>
         <mxCell id="asjINUInbQKGZqjc48UW-17" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1176" y="1169" width="478" height="452" as="geometry" />
+          <mxGeometry x="1748" y="250" width="478" height="452" as="geometry" />
         </mxCell>
         <mxCell id="asjINUInbQKGZqjc48UW-13" value="Add Water-Mark" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" parent="asjINUInbQKGZqjc48UW-17" vertex="1">
           <mxGeometry width="478" height="39.36" as="geometry" />
@@ -379,7 +379,7 @@
           <mxGeometry y="43.44" width="478" height="408.56" as="geometry" />
         </mxCell>
         <mxCell id="asjINUInbQKGZqjc48UW-18" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="529" y="1153" width="521" height="421" as="geometry" />
+          <mxGeometry x="1726.5" y="1660" width="521" height="421" as="geometry" />
         </mxCell>
         <mxCell id="asjINUInbQKGZqjc48UW-19" value="Make Your Own GitHub Repository" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" parent="asjINUInbQKGZqjc48UW-18" vertex="1">
           <mxGeometry width="521" height="39.58" as="geometry" />
@@ -388,13 +388,22 @@
           <mxGeometry y="43.68" width="516" height="364.32" as="geometry" />
         </mxCell>
         <mxCell id="1a5rmZUNnfDOQHELagFD-7" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="736" y="1657" width="478" height="492" as="geometry" />
+          <mxGeometry x="1748" y="749" width="478" height="492" as="geometry" />
         </mxCell>
         <mxCell id="1a5rmZUNnfDOQHELagFD-5" value="Upload task submission on your YouTube Channel" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=50;" vertex="1" parent="1a5rmZUNnfDOQHELagFD-7">
           <mxGeometry width="478" height="75.75929203539822" as="geometry" />
         </mxCell>
         <mxCell id="1a5rmZUNnfDOQHELagFD-6" value="&lt;ol&gt;&lt;li&gt;Upload you solution video to your own youtube channel&lt;/li&gt;&lt;li&gt;You can make any title and description.&lt;/li&gt;&lt;li&gt;Add following hashtags:&lt;br&gt;#osfp #babarzahoor #devops #linux #kubernetes #openshift #pakistan #opensource&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="1a5rmZUNnfDOQHELagFD-7">
           <mxGeometry y="83.61" width="478" height="262.39" as="geometry" />
+        </mxCell>
+        <mxCell id="1a5rmZUNnfDOQHELagFD-8" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1748" y="1140" width="478" height="482" as="geometry" />
+        </mxCell>
+        <mxCell id="1a5rmZUNnfDOQHELagFD-9" value="Post it on LinkedIn" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" vertex="1" parent="1a5rmZUNnfDOQHELagFD-8">
+          <mxGeometry width="478" height="39.36" as="geometry" />
+        </mxCell>
+        <mxCell id="1a5rmZUNnfDOQHELagFD-10" value="&lt;ol&gt;&lt;li&gt;Create the post about the task&lt;/li&gt;&lt;li&gt;Be precise&lt;/li&gt;&lt;li&gt;For example&lt;br&gt;&quot; I have successfully completed the Task 01 during my internship at #devopswithbabarzahoor of my linux related to file system. #osfp #babarzahoor #devops #linux #kubernetes #openshift #pakistan #opensource&lt;/li&gt;&lt;li&gt;Publish it&lt;/li&gt;&lt;li&gt;Use the URL of post in git-hub submission readme.md file.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="1a5rmZUNnfDOQHELagFD-8">
+          <mxGeometry y="43.44" width="478" height="438.56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
