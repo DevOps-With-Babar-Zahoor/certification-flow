@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T00:27:07.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="iNc1LLTtO5j_fuHZgcJb" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T00:30:29.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="dpFoACVU9eUpoKsqHCAV" version="22.1.18" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="5285" dy="3150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3134" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,6 +375,11 @@
         <mxCell id="asjINUInbQKGZqjc48UW-13" value="Add Water-Mark" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" parent="asjINUInbQKGZqjc48UW-17" vertex="1">
           <mxGeometry width="478" height="39.36" as="geometry" />
         </mxCell>
+        <mxCell id="1a5rmZUNnfDOQHELagFD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" edge="1" parent="asjINUInbQKGZqjc48UW-17" source="asjINUInbQKGZqjc48UW-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239" y="501" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="asjINUInbQKGZqjc48UW-14" value="&lt;ol&gt;&lt;li&gt;Water Mark Text should your YouTube Channel ID (not the name):&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Canva Link to make water-mark. (template is here: &lt;br&gt;https://bit.ly/3UgD3vt&lt;br&gt;&lt;/li&gt;&lt;li&gt;Sample water-mark can be used to make your video&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Upload video to Canva&lt;/li&gt;&lt;li&gt;Set Video to background&lt;/li&gt;&lt;li&gt;Edit the watermark from template as mentioned above.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Download video with water-mark&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" parent="asjINUInbQKGZqjc48UW-17" vertex="1">
           <mxGeometry y="43.44" width="478" height="408.56" as="geometry" />
         </mxCell>
@@ -404,6 +409,15 @@
         </mxCell>
         <mxCell id="1a5rmZUNnfDOQHELagFD-10" value="&lt;ol&gt;&lt;li&gt;Create the post about the task&lt;/li&gt;&lt;li&gt;Be precise&lt;/li&gt;&lt;li&gt;For example&lt;br&gt;&quot; I have successfully completed the Task 01 during my internship at #devopswithbabarzahoor of my linux related to file system. #osfp #babarzahoor #devops #linux #kubernetes #openshift #pakistan #opensource&lt;/li&gt;&lt;li&gt;Publish it&lt;/li&gt;&lt;li&gt;Use the URL of post in git-hub submission readme.md file.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="1a5rmZUNnfDOQHELagFD-8">
           <mxGeometry y="43.44" width="478" height="438.56" as="geometry" />
+        </mxCell>
+        <mxCell id="1a5rmZUNnfDOQHELagFD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="asjINUInbQKGZqjc48UW-3" target="asjINUInbQKGZqjc48UW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a5rmZUNnfDOQHELagFD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="1a5rmZUNnfDOQHELagFD-6" target="1a5rmZUNnfDOQHELagFD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a5rmZUNnfDOQHELagFD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="1a5rmZUNnfDOQHELagFD-10" target="asjINUInbQKGZqjc48UW-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
