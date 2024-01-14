@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T07:54:53.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="SzeaFLBqsZkcDSaNZI3N" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T08:01:36.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="3Jl9zicQtxhqaIQ85j0u" version="22.1.18" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
     <mxGraphModel dx="3906" dy="2362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -419,14 +419,17 @@
         <mxCell id="1a5rmZUNnfDOQHELagFD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" parent="1" source="1a5rmZUNnfDOQHELagFD-10" target="asjINUInbQKGZqjc48UW-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-1" value="" style="group;rounded=1;arcSize=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="979.5" y="2860" width="521" height="421" as="geometry" />
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-4" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="977.5" y="2876" width="541.5" height="672.5" as="geometry" />
         </mxCell>
-        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-2" value="6 - Submission for Validation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" vertex="1" parent="DyJgq2Zk6Q35zieLK4Gw-1">
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-5" value="6 - Submission for Validation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" vertex="1" parent="DyJgq2Zk6Q35zieLK4Gw-4">
           <mxGeometry width="521" height="39.58" as="geometry" />
         </mxCell>
-        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-3" value="&lt;ol&gt;&lt;li&gt;Create an issue using the following URL&lt;br&gt;https://bit.ly/BZDevOpsDone&lt;/li&gt;&lt;li&gt;Give a Title to the issue in the following format&lt;br&gt;&quot;Linux-&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;your OSFP membership number&amp;gt;&lt;/font&gt;&quot; in your account.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="DyJgq2Zk6Q35zieLK4Gw-1">
-          <mxGeometry y="43.68" width="516" height="364.32" as="geometry" />
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-6" value="&lt;ol&gt;&lt;li&gt;Create an issue using the following URL&lt;br&gt;https://bit.ly/BZDevOpsDone&lt;/li&gt;&lt;li&gt;Give a Title to the issue in the following format&lt;br&gt;Linux-Task01-&lt;span style=&quot;background-color: rgb(51, 51, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;your OSFP membership number&amp;gt;&lt;/font&gt;&lt;/span&gt;&quot; in your account.&lt;/li&gt;&lt;li&gt;Fill the template with data.&lt;/li&gt;&lt;li&gt;Some data is same as of last step, so copy from your own repo&#39;s readme.md and paste here.&lt;/li&gt;&lt;li&gt;Click &quot;submit new issue&quot;.&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="DyJgq2Zk6Q35zieLK4Gw-4">
+          <mxGeometry y="43.68" width="516" height="376.32" as="geometry" />
+        </mxCell>
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" edge="1" parent="1" source="asjINUInbQKGZqjc48UW-20" target="DyJgq2Zk6Q35zieLK4Gw-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
