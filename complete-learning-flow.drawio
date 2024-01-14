@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T08:01:36.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="3Jl9zicQtxhqaIQ85j0u" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T08:08:42.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="ipqCCfSRezw39CebaaVZ" version="22.1.18" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="3906" dy="2362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7436" dy="4380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -384,7 +384,7 @@
           <mxGeometry y="43.44" width="478" height="408.56" as="geometry" />
         </mxCell>
         <mxCell id="asjINUInbQKGZqjc48UW-18" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="979.5" y="2398.5" width="541.5" height="672.5" as="geometry" />
+          <mxGeometry x="979.5" y="2414" width="541.5" height="672.5" as="geometry" />
         </mxCell>
         <mxCell id="asjINUInbQKGZqjc48UW-19" value="5 - Make Your Own GitHub Repository" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" parent="asjINUInbQKGZqjc48UW-18" vertex="1">
           <mxGeometry width="521" height="39.58" as="geometry" />
@@ -420,15 +420,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DyJgq2Zk6Q35zieLK4Gw-4" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="977.5" y="2876" width="541.5" height="672.5" as="geometry" />
+          <mxGeometry x="977.5" y="2890" width="541.5" height="672.5" as="geometry" />
         </mxCell>
         <mxCell id="DyJgq2Zk6Q35zieLK4Gw-5" value="6 - Submission for Validation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=25;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;arcSize=31;" vertex="1" parent="DyJgq2Zk6Q35zieLK4Gw-4">
           <mxGeometry width="521" height="39.58" as="geometry" />
         </mxCell>
-        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-6" value="&lt;ol&gt;&lt;li&gt;Create an issue using the following URL&lt;br&gt;https://bit.ly/BZDevOpsDone&lt;/li&gt;&lt;li&gt;Give a Title to the issue in the following format&lt;br&gt;Linux-Task01-&lt;span style=&quot;background-color: rgb(51, 51, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;your OSFP membership number&amp;gt;&lt;/font&gt;&lt;/span&gt;&quot; in your account.&lt;/li&gt;&lt;li&gt;Fill the template with data.&lt;/li&gt;&lt;li&gt;Some data is same as of last step, so copy from your own repo&#39;s readme.md and paste here.&lt;/li&gt;&lt;li&gt;Click &quot;submit new issue&quot;.&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="DyJgq2Zk6Q35zieLK4Gw-4">
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="DyJgq2Zk6Q35zieLK4Gw-4" source="DyJgq2Zk6Q35zieLK4Gw-6" target="DyJgq2Zk6Q35zieLK4Gw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-6" value="&lt;ol&gt;&lt;li&gt;Create an issue using the following URL&lt;br&gt;https://bit.ly/BZDevOpsDone&lt;/li&gt;&lt;li&gt;Give a Title to the issue in the following format&lt;br&gt;Linux-Task01-&lt;span style=&quot;background-color: rgb(51, 51, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;your OSFP membership number&amp;gt;&lt;/font&gt;&lt;/span&gt; in your account.&lt;/li&gt;&lt;li&gt;Fill the template with data.&lt;/li&gt;&lt;li&gt;Some data is same as of last step, so copy from your own repo&#39;s readme.md and paste here.&lt;/li&gt;&lt;li&gt;Click &quot;submit new issue&quot;.&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" vertex="1" parent="DyJgq2Zk6Q35zieLK4Gw-4">
           <mxGeometry y="43.68" width="516" height="376.32" as="geometry" />
         </mxCell>
-        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" edge="1" parent="1" source="asjINUInbQKGZqjc48UW-20" target="DyJgq2Zk6Q35zieLK4Gw-5">
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-8" value="Volunteer will verify the task assigned to him" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.21428571428571427;arcSize=6;snapToPoint=0;fontSize=24;" vertex="1" parent="DyJgq2Zk6Q35zieLK4Gw-4">
+          <mxGeometry x="128" y="480" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-9" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;rounded=1;fontSize=24;" vertex="1" parent="DyJgq2Zk6Q35zieLK4Gw-4">
+          <mxGeometry x="215.30590909090915" y="507.29769911504445" width="85.39772727272728" height="85.39823008849558" as="geometry" />
+        </mxCell>
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" edge="1" parent="1" source="asjINUInbQKGZqjc48UW-20" target="DyJgq2Zk6Q35zieLK4Gw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="DyJgq2Zk6Q35zieLK4Gw-13" target="W4eT2PgvmVDTKqHdBjYm-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1766" y="3660" />
+              <mxPoint x="780" y="3660" />
+              <mxPoint x="780" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-13" value="Checking" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1679.9950000000001" y="3354.601238938053" width="170.79545454545456" height="170.79646017699116" as="geometry" />
+        </mxCell>
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=6;" edge="1" parent="1" source="DyJgq2Zk6Q35zieLK4Gw-8" target="DyJgq2Zk6Q35zieLK4Gw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
