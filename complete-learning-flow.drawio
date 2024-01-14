@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T08:08:42.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="ipqCCfSRezw39CebaaVZ" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T08:11:17.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="MjZEtCgoRrnhVeFWSKui" version="22.1.18" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="7436" dy="4380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4887" dy="2922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-12" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-490" y="-300" width="350" height="420" as="geometry" />
+          <mxGeometry x="-550" y="-380" width="350" height="420" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-8" value="Participate in tasks from GitHub" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;" parent="1tRoSdfYGU_0hkGhyjqQ-12" vertex="1">
           <mxGeometry width="350" height="70" as="geometry" />
@@ -446,6 +446,15 @@
               <mxPoint x="1766" y="3660" />
               <mxPoint x="780" y="3660" />
               <mxPoint x="780" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="DyJgq2Zk6Q35zieLK4Gw-13" target="1tRoSdfYGU_0hkGhyjqQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1765" y="-1070" />
+              <mxPoint x="-120" y="-1070" />
+              <mxPoint x="-120" y="-240" />
             </Array>
           </mxGeometry>
         </mxCell>
