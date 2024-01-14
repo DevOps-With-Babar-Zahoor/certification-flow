@@ -2,7 +2,13 @@
 # Full Name = ""
 
 ## Task requirements
+### Paste the original task URL
 < enter task requirement>
+
+## List of Issues you faced while doing the tasks
+
+- URL Issue 1 (the issues you created while seeking help from DevOps Babar Zahoor Community, this link should get github URL only).
+- URL of issue 2 (if there is)
 
 ### Submission
 Youtbe video:
