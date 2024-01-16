@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T12:23:29.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="unhtRFhQu0Ky1Hj6cHZH" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T12:24:58.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="fjdEuackWEfuvdRj8kPW" version="22.1.17" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="8870" dy="4970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6480" dy="3680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -483,7 +483,7 @@
         <mxCell id="zaYZ4CFAsRXp9UGhxNaO-5" value="&lt;ol&gt;&lt;li&gt;Sign-In to your GitHub.com&lt;/li&gt;&lt;li&gt;Open the URL:&lt;br&gt;https://github.com/orgs/DevOps-With-Babar-Zahoor/projects/2/views/6&lt;/li&gt;&lt;li&gt;Open the assigned issue.&lt;/li&gt;&lt;li&gt;Check the submitted URL of readme.md (only click if the URL is from domain https://github.com/&lt;br&gt;* Please don&#39;t click if the URL domain is not github.com (that could be unsafe URL).&lt;br&gt;&lt;/li&gt;&lt;li&gt;Reject if the following happens:&lt;br&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Video length is more than 30 seconds (strictly follow it)&lt;/li&gt;&lt;li&gt;Mobile camera recording of the screen is not acceptable.&lt;/li&gt;&lt;li&gt;No voice message within the video, explaining the success.&lt;/li&gt;&lt;li&gt;Time-wasting stories are being told in video.&lt;/li&gt;&lt;li&gt;Technical mistakes are performed&lt;/li&gt;&lt;li&gt;Hashtags are not being used while publishing.&lt;/li&gt;&lt;li&gt;Template.md is not used to submit the issue.&lt;/li&gt;&lt;li&gt;The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes.&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Evaluate technically based on your experience.&lt;/li&gt;&lt;li&gt;If need some further question, add some comments, and do a &quot;Request for Information&quot;.&lt;/li&gt;&lt;li&gt;If all is completed, write OK in comments and close the issue.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#ffcc99;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;strokeColor=#36393d;" vertex="1" parent="zaYZ4CFAsRXp9UGhxNaO-6">
           <mxGeometry y="43.44" width="570" height="936.56" as="geometry" />
         </mxCell>
-        <mxCell id="W4eT2PgvmVDTKqHdBjYm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;strokeWidth=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W4eT2PgvmVDTKqHdBjYm-43" target="zaYZ4CFAsRXp9UGhxNaO-3" edge="1">
+        <mxCell id="W4eT2PgvmVDTKqHdBjYm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;strokeWidth=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="W4eT2PgvmVDTKqHdBjYm-43" target="zaYZ4CFAsRXp9UGhxNaO-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="1240" as="targetPoint" />
             <Array as="points">
@@ -492,7 +492,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zaYZ4CFAsRXp9UGhxNaO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;exitX=0.526;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zaYZ4CFAsRXp9UGhxNaO-5" target="W4eT2PgvmVDTKqHdBjYm-45">
+        <mxCell id="zaYZ4CFAsRXp9UGhxNaO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;exitX=0.526;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="zaYZ4CFAsRXp9UGhxNaO-5" target="W4eT2PgvmVDTKqHdBjYm-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="2540" as="sourcePoint" />
             <Array as="points">
