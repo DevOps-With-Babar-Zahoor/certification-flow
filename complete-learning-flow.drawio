@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T17:05:08.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="fvPt96ykfjlx4cnnRYL9" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T08:00:14.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="4pyHEMjkWejWTJUU0Z0s" version="22.1.17" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="4568" dy="2740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3134" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,7 +428,7 @@
         <mxCell id="DyJgq2Zk6Q35zieLK4Gw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" parent="DyJgq2Zk6Q35zieLK4Gw-4" source="DyJgq2Zk6Q35zieLK4Gw-6" target="DyJgq2Zk6Q35zieLK4Gw-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-6" value="&lt;ol&gt;&lt;li&gt;Create an issue using the following URL&lt;br&gt;https://bit.ly/BZDevOpsDone&lt;/li&gt;&lt;li&gt;Give a Title to the issue in the following format&lt;br&gt;Linux-Task01-&lt;span style=&quot;background-color: rgb(51, 51, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;your OSFP membership number&amp;gt;&lt;/font&gt;&lt;/span&gt; in your account.&lt;/li&gt;&lt;li&gt;Fill the template with data.&lt;/li&gt;&lt;li&gt;Some data is the same as in the last step, so copy from your own repo&#39;s readme.md and paste it here.&lt;/li&gt;&lt;li&gt;Click &quot;submit new issue&quot;.&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" parent="DyJgq2Zk6Q35zieLK4Gw-4" vertex="1">
+        <mxCell id="DyJgq2Zk6Q35zieLK4Gw-6" value="&lt;ol&gt;&lt;li&gt;Create an issue using the following URL&lt;br&gt;https://bit.ly/BZDevOpsDone&lt;/li&gt;&lt;li&gt;Give a Title to the issue in the following format&lt;br&gt;Linux-Task01-&lt;span style=&quot;background-color: rgb(51, 51, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;your OSFP membership number&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Fill the template with data.&lt;/li&gt;&lt;li&gt;Some data is the same as in the last step, so copy from your own repo&#39;s readme.md and paste it here.&lt;/li&gt;&lt;li&gt;Click &quot;submit new issue&quot;.&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=1;arcSize=3;" parent="DyJgq2Zk6Q35zieLK4Gw-4" vertex="1">
           <mxGeometry y="43.68" width="516" height="376.32" as="geometry" />
         </mxCell>
         <mxCell id="DyJgq2Zk6Q35zieLK4Gw-8" value="Volunteer will verify the task assigned to him" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.21428571428571427;arcSize=6;snapToPoint=0;fontSize=24;" parent="DyJgq2Zk6Q35zieLK4Gw-4" vertex="1">
