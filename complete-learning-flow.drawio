@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T10:24:21.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Ott4yJ4NUesHy5NMeho9" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T17:00:47.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="oc0LiEUziDxk7Qy36W2_" version="22.1.18" type="github">
   <diagram name="Page-1" id="QCRs72QJ7RFpPiSyxYd-">
-    <mxGraphModel dx="6480" dy="3680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3374" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,7 +175,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-12" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-550" y="-380" width="350" height="420" as="geometry" />
+          <mxGeometry x="-560" y="-380" width="350" height="420" as="geometry" />
         </mxCell>
         <mxCell id="1tRoSdfYGU_0hkGhyjqQ-8" value="Participate in tasks from GitHub" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fillColor=#10739E;strokeColor=none;fontSize=24;fontStyle=1;align=center;fontColor=#000000;rounded=1;" parent="1tRoSdfYGU_0hkGhyjqQ-12" vertex="1">
           <mxGeometry width="350" height="70" as="geometry" />
